@@ -1,5 +1,5 @@
-REQUIRED PACKAGES
-python3s
+__REQUIRED PACKAGES__
+python3
 colorama
 graphviz
 eog
