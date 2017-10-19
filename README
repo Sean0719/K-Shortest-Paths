@@ -1,4 +1,4 @@
-__REQUIRED PACKAGES__
+# REQUIRED PACKAGES
 python3
 colorama
 graphviz
