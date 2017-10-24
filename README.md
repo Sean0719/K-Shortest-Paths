@@ -1,5 +1,5 @@
 # REQUIRED PACKAGES
-python3
-colorama
-graphviz
-eog
+* python3
+* colorama
+* graphviz
+* eog
